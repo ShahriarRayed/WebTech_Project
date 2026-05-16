@@ -255,7 +255,7 @@ For support, questions, or inquiries:
 </p>
 
 <p align="center">
-  <b>Cow Kino</b> was developed by <a href="https://github.com/raidibney">Raid Ibney Hasan</a> with ❤️
+  <b>Cow Kino</b> was developed by <a href="https://github.com/raidibney">Al Shahriar Rayed</a> with Team
 </p>
 
 <p align="center">
